@@ -1,0 +1,93 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.main {
+  display: flex;
+  background-color:  rgb(217, 225, 227);
+  padding-left: 5%;
+  padding-bottom: 2%;
+}
+
+.locationlogo {
+  margin-right: 5%;
+}
+
+.time {
+  margin-right: 30%;
+}
+
+.mainname {
+  margin-right: 53%;
+  margin-left: 1%;
+}
+
+ui {
+  list-style: none;
+  display: flex;
+  background-color: white;
+}
+
+li {
+  margin-left: 3%;
+}
+
+.firstpart {
+  display: flex;
+  background-image: url(https://media.post.rvohealth.io/wp-content/uploads/2020/08/Doctors_For_Men-732x549-thumbnail-1-732x549.jpg);
+}
+
+.first {
+  background-color: rgb(37, 37, 140);
+  width: 35%;
+  height: 25rem;
+  color: white;
+  padding-left: 10%;
+  padding-right: 5%;
+  padding-top: 10%;
+}
+
+.expert {
+  display: flex;
+  margin-top: 5%;
+}
+
+.doctors {
+  border-left: solid rgb(255, 245, 245) 0.1rem;
+}
+
+.medical {
+  border-left: solid rgb(255, 255, 255) 0.1rem;
+  margin-left: 20%;
+}
+
+.total {
+  border-left: solid rgb(255, 255, 255) 0.1rem;
+  margin-left: 20%;
+}
+
+i {
+  background-color:rgb(255, 255, 255);
+  border-radius: 50%;
+  padding: 0.5%;
+  margin-left: 1%;
+}
+
+input {
+  margin-left: 1%;
+  width: 100%;
+  background-color: rgb(13, 13, 87);
+  color: white;
+}
+
+.text {
+  font-size: 200%;
+  text-transform: uppercase;
+}
+
+.cardiology{
+ font-weight: 900;
+ font-size: 200%;
+ margin: 80%;
+ color: darkgrey;
+}
